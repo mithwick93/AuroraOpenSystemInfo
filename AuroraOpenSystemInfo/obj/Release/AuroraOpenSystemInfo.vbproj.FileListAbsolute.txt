@@ -1,0 +1,15 @@
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmEnvironmentVariebles.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmInstalledprograms.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmLoading.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmMain.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmSpecialFolders.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.Resources.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.vbproj.GenerateResource.Cache
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\bin\Release\OpenHardwareMonitorLib.dll
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.vbprojResolveAssemblyReference.cache
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\bin\Release\AOSI.exe
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\bin\Release\AOSI.xml
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AOSI.exe
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AOSI.xml
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\obj\Release\AuroraOpenSystemInfo.frmControllers.resources
+E:\Documents\Programming\Visual studio 2010\Projects\VB\AuroraOpenSystemInfo\AuroraOpenSystemInfo\bin\Release\AOSI.exe.config

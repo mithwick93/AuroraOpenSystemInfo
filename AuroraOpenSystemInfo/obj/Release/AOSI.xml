@@ -1,0 +1,97 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AOSI
+</name>
+</assembly>
+<members>
+<member name="M:AuroraOpenSystemInfo.OpenInfo.WMI_Single(System.String,System.String@,System.Boolean)">
+	<summary>
+ Use to get System Information in WMI which wont have multiple objects
+ </summary>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.OS_SystemFolders_Windows(System.String)">
+	<summary>
+ Get paths of Special Folders -(Cookies,,Desktop,DesktopDirectory,Favorites,Fonts,History,InternetCache,LocalApplicationData,MyComputer etc,ProgramFiles,ProgramFilesX86,Programs,Recent,SendTo,StartMenu,Startup,System,SystemX86,Windows)
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.CPU_BusSpeed">
+	<summary>
+ Base clock in MHz
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.CPU_CurrentClockSpeed">
+	<summary>
+ ClockSpeed in MHz
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.CPU_L2CacheSize">
+	<summary>
+L2  Cache Size in Mb
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.CPU_L3CacheSize">
+	<summary>
+ L3  Cache Size in Mb
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.RAM_totalPhyMemory(System.String)">
+	<summary>
+ Enter unit as  MB,GB or Default
+ </summary>
+	<param name="unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:AuroraOpenSystemInfo.OpenInfo.RAM_totalVirlMemory(System.String)">
+	<summary>
+ Enter unit as  MB,GB or Default
+ </summary>
+	<param name="unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.SystemInfo_Side_Display">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.SystemInfo_Side_IODevices">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.SystemInfo_Side_Overview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.SystemInfo_Side_Systemdevices">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AuroraOpenSystemInfo.My.Resources.Resources.SystemInfo_Side_Windows_W7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AuroraOpenSystemInfo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
